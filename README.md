@@ -1,9 +1,15 @@
 <div>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&CENTER=true&duration:2500&vCenter=false&color=%23FFFFFF&size=40&height=100&width=800&lines=Hello!+My+Name's+Deepak+Bagati+👋">
   </div>
+  <div id="user-content-toc">
+    <ul align="center">
+      <summary style="cursor: pointer;"><h2 style="display: inline-block; border-bottom: none; color: #4CAF50;">About me</h2></summary>
+    </ul>
+  </div>
 
-<h3 align="center">Passionate web developer aspiring to thrive in a dynamic work environment. Eager to apply a robust founda foundation in coursework and self-driven study, I aim to contribute technical expertise to innovative projects. Committed to continuous learning and growth , I seek opportunities to deliver high-quality solutions while embracing challenges and emerging trends in the ever-evolving field of Web Development.</h3>
-
+  <div id="about-me" style="color: #333; font-size: 16px; line-height: 1.5; max-width: 600px; margin: 0 auto; padding: 20px; background-color: #f9f9f9; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+   <p>Deepak Bagati, a proficient 3rd-year IT student, passionate about leveraging technology for real-world impact. Eager to contribute skills in coding and problem-solving to innovate and excel in the dynamic field of Information Technology. Committed to continuous learning and growth, with a focus on staying abreast of emerging trends and technologies. A dedicated individual with a strong drive for excellence and a keen interest in making meaningful contributions to the IT industry</p>
+  </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakbagati&label=Profile%20views&color=0e75b6&style=flat" alt="deepakbagati" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepakbagati" alt="deepakbagati" /></a> </p>
