@@ -1,6 +1,6 @@
- <h1 style="font-size: 24px; color: blue; transition: color 0.5s ease-in-out;">
-    Hi 👋, I'm Deepak Bagati
-  </h1>
+<div>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&CENTER=true&duration:2500&vCenter=false&color=%23FFFFFF&size=40&height=100&width=800&lines=Hello!+My+Name's+Deepak Bagati+👋">
+</div>
 <h3 align="center">Passionate web developer aspiring to thrive in a dynamic work environment. Eager to apply a robust founda foundation in coursework and self-driven study, I aim to contribute technical expertise to innovative projects. Committed to continuous learning and growth , I seek opportunities to deliver high-quality solutions while embracing challenges and emerging trends in the ever-evolving field of Web Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakbagati&label=Profile%20views&color=0e75b6&style=flat" alt="deepakbagati" /> </p>
