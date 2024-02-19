@@ -1,3 +1,8 @@
+<body style="margin: 0; height: 100vh; display: flex; align-items: center; justify-content: center; background: linear-gradient(to right, #c0c0c0, #808080);">
+
+
+
+
 <div>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&CENTER=true&duration:2500&vCenter=false&color=%23FFFFFF&size=40&height=100&width=800&lines=Hello!+My+Name's+Deepak+Bagati+👋">
   </div>
