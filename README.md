@@ -1,7 +1,4 @@
-<body style="margin: 0; height: 100vh; display: flex; align-items: center; justify-content: center; background: linear-gradient(to right, #c0c0c0, #808080);">
- <p style="color: white; font-size: 24px; text-align: center;">This is a stylish gradient background!</p>
 
-</body>
 
 
 
