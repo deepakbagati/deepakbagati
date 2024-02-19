@@ -15,9 +15,7 @@
   <div id="about-me" style="color: #333; font-size: 16px; line-height: 1.5; max-width: 600px; margin: 0 auto; padding: 20px; background-color: #f9f9f9; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
    <p>Deepak Bagati, a proficient 3rd-year IT student, passionate about leveraging technology for real-world impact. Eager to contribute skills in coding and problem-solving to innovate and excel in the dynamic field of Information Technology. Committed to continuous learning and growth, with a focus on staying abreast of emerging trends and technologies. A dedicated individual with a strong drive for excellence and a keen interest in making meaningful contributions to the IT industry</p>
   </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakbagati&label=Profile%20views&color=0e75b6&style=flat" alt="deepakbagati" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepakbagati" alt="deepakbagati" /></a> </p>
 
 - 🔭 I’m currently working on **Backend Development**
 
