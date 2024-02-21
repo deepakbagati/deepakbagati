@@ -1,11 +1,8 @@
 
-
-
-
-
-<div>
+<div style="color: #FFFFFF; background-color: #000000;">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&CENTER=true&duration:2500&vCenter=false&color=%23FFFFFF&size=40&height=100&width=800&lines=Hello!+My+Name's+Deepak+Bagati+👋">
-  </div>
+</div>
+
   <div id="user-content-toc">
     <ul align="center">
       <summary style="cursor: pointer;"><h2 style="display: inline-block; border-bottom: none; color: #4CAF50;">About me</h2></summary>
