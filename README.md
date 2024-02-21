@@ -1,5 +1,19 @@
 
-<div style="color: #FFFFFF; background-color: #000000;">
+<style>
+    @media (prefers-color-scheme: dark) {
+        .typing-container {
+            color: #FFFFFF; /* White text for dark mode */
+        }
+    }
+
+    @media (prefers-color-scheme: light) {
+        .typing-container {
+            color: #000000; /* Black text for light mode */
+        }
+    }
+</style>
+
+<div class="typing-container">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&CENTER=true&duration:2500&vCenter=false&color=%23FFFFFF&size=40&height=100&width=800&lines=Hello!+My+Name's+Deepak+Bagati+👋">
 </div>
 
