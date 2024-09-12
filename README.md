@@ -10,7 +10,7 @@
   </div>
 
   <div id="about-me" style="color: #333; font-size: 16px; line-height: 1.5; max-width: 600px; margin: 0 auto; padding: 20px; background-color: #f9f9f9; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-   <p>Deepak Bagati, a proficient 3rd-year IT student, passionate about leveraging technology for real-world impact. Eager to contribute skills in coding and problem-solving to innovate and excel in the dynamic field of Information Technology. Committed to continuous learning and growth, with a focus on staying abreast of emerging trends and technologies. A dedicated individual with a strong drive for excellence and a keen interest in making meaningful contributions to the IT industry</p>
+   <p>I am a 4th-year IT student, passionate about leveraging technology for real-world impact. Eager to contribute skills in coding and problem-solving to innovate and excel in the dynamic field of Information Technology. Committed to continuous learning and growth, with a focus on staying abreast of emerging trends and technologies. A dedicated individual with a strong drive for excellence and a keen interest in making meaningful contributions to the IT industry</p>
   </div>
 
 
@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **deepakbagati2708@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PQQKJORsV405-Za2HCmnfebXRw-U1DTT/view?usp=sharing](https://drive.google.com/file/d/1PQQKJORsV405-Za2HCmnfebXRw-U1DTT/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1HFsgyYIXLV3hcgPS1ykeN_aONjsR_Smd/view?usp=sharing](https://drive.google.com/file/d/1HFsgyYIXLV3hcgPS1ykeN_aONjsR_Smd/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
