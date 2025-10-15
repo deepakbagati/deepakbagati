@@ -1,47 +1,71 @@
-<div>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&CENTER=true&duration:2500&vCenter=false&color=%23FFFFFF&size=40&height=100&width=800&lines=Hello!+My+Name's+Deepak+Bagati+👋">
-  </div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&duration=2500&color=00C853&size=40&center=true&vCenter=true&width=800&lines=Hello!+I'm+Deepak+Bagati+👋;Software+Developer+@+Oracle;Curious+Mind+|+Full+Stack+Builder+|+Tech+Explorer" />
+</div>
 
+---
 
-  <div id="user-content-toc">
-    <ul align="center">
-      <summary style="cursor: pointer;"><h2 style="display: inline-block; border-bottom: none; color: #4CAF50;">About me</h2></summary>
-    </ul>
-  </div>
+### 🧩 About Me  
+<div align="center" style="color: #333; font-size: 16px; line-height: 1.6; max-width: 700px; margin: 0 auto; background: #f9f9f9; border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.08);">
+<p>
+I’m a <strong>Software Developer at Oracle</strong> passionate about building scalable systems and creating impactful digital experiences.  
+I love exploring new technologies, optimizing backend workflows, and turning complex ideas into clean, efficient solutions.  
+Driven by curiosity, I constantly push myself to learn, experiment, and craft better code — one commit at a time.
+</p>
+</div>
 
-  <div id="about-me" style="color: #333; font-size: 16px; line-height: 1.5; max-width: 600px; margin: 0 auto; padding: 20px; background-color: #f9f9f9; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-   <p>I am a 4th-year IT student, passionate about leveraging technology for real-world impact. Eager to contribute skills in coding and problem-solving to innovate and excel in the dynamic field of Information Technology. Committed to continuous learning and growth, with a focus on staying abreast of emerging trends and technologies. A dedicated individual with a strong drive for excellence and a keen interest in making meaningful contributions to the IT industry</p>
-  </div>
+---
 
+- 🔭 Currently working on **Backend Development**  
+- 🌱 Exploring **Next.js & Microservices Architecture**  
+- 💬 Ask me about **Full Stack Development**  
+- 📫 Reach me at: **deepakbagati2708@gmail.com**  
+- ⚡ Fun fact: I debug better with a cup of coffee ☕
 
-- 🔭 I’m currently working on **Backend Development**
+---
 
-- 🌱 I’m currently learning **Nextjs**
+### 🛠️ Tech Stack
 
-- 💬 Ask me about **Full Stack Development**
+**Languages:**  
+`Java` · `Python` · `JavaScript` · `TypeScript` · `SQL`
 
-- 📫 How to reach me **deepakbagati2708@gmail.com**
+**Frontend:**  
+`React.js` · `Next.js` · `Astro` · `Tailwind CSS` · `SASS`
 
-🛠️ Technical Skills
-Languages: Java, Python, JavaScript, TypeScript, SQL
-Web Development: React.js, Next.js, Astro, Tailwind CSS, SASS
-Backend & Databases: Node.js, Express.js, MongoDB
-Tools: Postman, Git, GitHub, GitLab, Postman, Vercel, APEX
-Cloud & DevOps: Oracle Cloud
-Scripting: Shell , Ansible
-Currently Learning: Microservices
+**Backend & Databases:**  
+`Node.js` · `Express.js` · `MongoDB`
 
-<h3 align="left">Connect with me:</h3>
+**Tools & Platforms:**  
+`Git` · `GitHub` · `GitLab` · `Postman` · `Vercel` · `Oracle APEX`  
+`Oracle Cloud` · `Shell` · `Ansible`
+
+---
+
+### 🌐 Connect With Me
 <p align="left">
-<a href="https://www.linkedin.com/in/deepakbagati/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deepakbagati/" height="30" width="40" /></a>
-<a href="https://instagram.com/deepakbagati_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepakbagati_27" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/deepakbagati/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/deepakbagati_27" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
+### 🧠 Languages & Tools
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakbagati&show_icons=true&locale=en&layout=compact" alt="deepakbagati" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakbagati&show_icons=true&locale=en" alt="deepakbagati" /></p>
-
-
