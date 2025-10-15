@@ -22,7 +22,14 @@
 
 - 📫 How to reach me **deepakbagati2708@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HFsgyYIXLV3hcgPS1ykeN_aONjsR_Smd/view?usp=sharing](https://drive.google.com/file/d/1HFsgyYIXLV3hcgPS1ykeN_aONjsR_Smd/view?usp=sharing)
+🛠️ Technical Skills
+Languages: Java, Python, JavaScript, TypeScript, SQL
+Web Development: React.js, Next.js, Astro, Tailwind CSS, SASS
+Backend & Databases: Node.js, Express.js, MongoDB
+Tools: Postman, Git, GitHub, GitLab, Postman, Vercel, APEX
+Cloud & DevOps: Oracle Cloud
+Scripting: Shell , Ansible
+Currently Learning: Microservices
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
