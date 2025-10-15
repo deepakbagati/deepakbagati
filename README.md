@@ -9,7 +9,7 @@
 <p>
 I’m a <strong>Software Developer at Oracle</strong> passionate about building scalable systems and creating impactful digital experiences.  
 I love exploring new technologies, optimizing backend workflows, and turning complex ideas into clean, efficient solutions.  
-Driven by curiosity, I constantly push myself to learn, experiment, and craft better code — one commit at a time.
+Driven by curiosity, I constantly push myself to learn, experiment, and craft better code
 </p>
 </div>
 
