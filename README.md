@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&duration=2500&color=00C853&size=40&center=true&vCenter=true&width=800&lines=Hello!+I'm+Deepak+Bagati+👋;Software+Developer+@+Oracle;Curious+Mind+|+Full+Stack+Builder+|+Tech+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&duration=2500&color=00C853&size=40&center=true&vCenter=true&width=800&lines=Hello!+I'm+Deepak+Bagati+👋;Software+Developer+@+Oracle;Curious+Mind+|+Full+Stack+Developer" />
 </div>
 
 ---
@@ -16,7 +16,7 @@ Driven by curiosity, I constantly push myself to learn, experiment, and craft be
 ---
 
 - 🔭 Currently working on **Backend Development**  
-- 🌱 Exploring **Next.js & Microservices Architecture**  
+- 🌱 Exploring ** Microservices Architecture**  
 - 💬 Ask me about **Full Stack Development**  
 - 📫 Reach me at: **deepakbagati2708@gmail.com**  
 - ⚡ Fun fact: I debug better with a cup of coffee ☕
